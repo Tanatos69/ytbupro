@@ -1,20 +1,24 @@
 
 body{
   width: 100%;
+  margin-top: 0;
+  margin-left: 0;
 }
 .btn {
-  width: 95.5%;
+  width: 330px;
   background-color: #009788;
   color: white;
   text-align: center;
   display: inline-block;
   border: none;
-  padding: 5px;
+  padding-top: 5px;
+  padding-bottom: 5px;
   border-radius: 3px;
 }
 .logo {
   width: 100%;
   height: auto;
+  border-radius: 10px;
 }
 .mainb {
   padding-left: 13px;
