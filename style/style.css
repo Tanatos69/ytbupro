@@ -1,3 +1,7 @@
+
+body{
+  width: 100%;
+}
 .btn {
   width: 95.5%;
   background-color: #009788;
@@ -27,7 +31,7 @@ td {
 .content-box {
   top: 10%;
   left: 50%;
-  width: 500px;
+  width: 350px;
 }
 .content-box .content-title h2 {
   font-size: 25px;
